@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SecretChatLab</string>
+    <string name="application_package">ank.com.secretchatlab</string>
+    <string name="application_title_short">secretchatlab</string>
+    <string name="application_title_full">secretchatlab</string>
+    <string name="caps_entity_node">https://www.secretchatlab.com/</string>
+    <string name="xabber_xmpp_host">secretchatlab.com</string>
+</resources>
